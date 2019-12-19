@@ -1,4 +1,11 @@
-An expressive Visual Query Language (VQL) for modeling complex SQL queries
+An expressive Visual Tool for modeling Structural Database Refactoring 
+The REvolutionCASE Tool supports the following features:
+-Reverse Engineering
+ The user can reverse engineer the partial model with will be refactored.
+-Forward Engineering
+ It is possible to send the changes to the underlying database
+-Transactional Period
+ This key feature enables two versions of the same schema work concurrently. 
 
 ## Experiment comparing DSQL with SQL
 
@@ -14,5 +21,5 @@ An expressive Visual Query Language (VQL) for modeling complex SQL queries
 
 ## Download
 
-[Prototype (version 0.1)](https://github.com/dsqlcase/dsqlcase.github.io/releases)
+[REvolutionCASE (version 0.1)](https://github.com/GenesisLima/revolutioncasetool/releases/tag/V1)
 

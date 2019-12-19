@@ -1,5 +1,5 @@
 An expressive Visual Tool for modeling Structural Database Refactoring 
-The REvolutionCASE Tool supports the following features:
+The REvolutionCASE Tool supports the following features: <br/>
 -Reverse Engineering
  The user can reverse engineer the partial model with will be refactored.
 -Forward Engineering

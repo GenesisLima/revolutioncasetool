@@ -1,11 +1,11 @@
 An expressive Visual Tool for modeling Structural Database Refactoring 
-The REvolutionCASE Tool supports the following features: <br/>
--Reverse Engineering
- The user can reverse engineer the partial model with will be refactored.
--Forward Engineering
- It is possible to send the changes to the underlying database
--Transactional Period
- This key feature enables two versions of the same schema work concurrently. 
+The REvolutionCASE Tool supports the following features: /
+-Reverse Engineering/
+ The user can reverse engineer the partial model with will be refactored./
+-Forward Engineering/
+ It is possible to send the changes to the underlying database./
+-Transactional Period/
+ This key feature enables two versions of the same schema work concurrently./
 
 ## Experiment comparing DSQL with SQL
 
